@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+# Local dashboard state (passcode hash, anonymization salt, access log)
+settings.json
+ACCESS_LOG.csv
+MASTER_AUDIT_LOG.csv
+demo_stream/
