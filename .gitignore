@@ -2,7 +2,11 @@ __pycache__/
 *.py[cod]
 
 # Local dashboard state (passcode hash, anonymization salt, access log)
+demo_stream/
 settings.json
 ACCESS_LOG.csv
 MASTER_AUDIT_LOG.csv
-demo_stream/
+MASTER_AUDIT_LOG.csv.bak
+EXTRACTED_FEATURES.csv
+ML_MASTER_DATASET.csv
+ENCODER_WINDOW_DATASET*.csv
